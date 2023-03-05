@@ -1,0 +1,26 @@
+{
+  "name": "statistic-visualizations",
+  "version": "1.0.0",
+  "description": "📊 Visualize Statistics",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "tsc && node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EazyAutodelete/statistic-visualizations.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EazyAutodelete/statistic-visualizations/issues"
+  },
+  "homepage": "https://github.com/EazyAutodelete/statistic-visualizations#readme",
+  "dependencies": {
+    "chartjs-node-canvas": "^4.1.6",
+    "typescript": "^4.9.5"
+  },
+  "devDependencies": {
+    "@types/node": "^18.14.6"
+  }
+}
